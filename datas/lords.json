@@ -1,5 +1,18 @@
 {
-  "County of Anjou": "Fulk III, Count of Anjou",
-  "Duchy of Normandy": "William the Conqueror",
-  "Crown lands of France": "Robert II of France"
+  "County of Anjou": {
+    "ruler": "Fulk III, Count of Anjou",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sceau_de_Foulques_Nerra.jpg" 
+  },
+  "Duchy of Normandy": {
+    "ruler": "Robert I, Duke of Normandy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Robert_the_Magnificent_of_Normandy.png" 
+  },
+  "Crown lands of France": {
+    "ruler": "Robert II of France",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sceau_de_Robert_II_le_pieux.jpg" 
+  },
+  "Duchy of Brittany": {
+    "ruler": "Alan III, Duke of Brittany",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Alan_III_of_Brittany_%28icon%29.jpg" 
+  }
 }
